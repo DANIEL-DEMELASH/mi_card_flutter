@@ -1,6 +1,7 @@
-/build
-/linux
-/macos
-/test
-/web
-/windows
+build
+linux
+macos
+test
+web
+windows
+.dart_tool
